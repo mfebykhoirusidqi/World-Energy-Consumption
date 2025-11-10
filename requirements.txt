@@ -1,0 +1,12 @@
+jupyter
+streamlit
+pandas
+numpy
+statsmodels
+warnings
+plotly
+matplotlib
+scikit-learn
+xgboost
+reportlab
+kaleido
